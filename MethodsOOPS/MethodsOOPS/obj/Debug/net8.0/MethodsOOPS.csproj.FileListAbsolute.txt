@@ -1,0 +1,14 @@
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\bin\Debug\net8.0\MethodsOOPS.exe
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\bin\Debug\net8.0\MethodsOOPS.deps.json
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\bin\Debug\net8.0\MethodsOOPS.runtimeconfig.json
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\bin\Debug\net8.0\MethodsOOPS.dll
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\bin\Debug\net8.0\MethodsOOPS.pdb
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\MethodsOOPS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\MethodsOOPS.AssemblyInfoInputs.cache
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\MethodsOOPS.AssemblyInfo.cs
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\MethodsOOPS.csproj.CoreCompileInputs.cache
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\MethodsOOPS.dll
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\refint\MethodsOOPS.dll
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\MethodsOOPS.pdb
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\MethodsOOPS.genruntimeconfig.cache
+C:\Users\freelancer.dom3\source\repos\MethodsOOPS\MethodsOOPS\obj\Debug\net8.0\ref\MethodsOOPS.dll
